@@ -85,8 +85,9 @@ The main missing-data issue identified was associated with the **Review Rating**
 | **Jupyter Notebook** | Python analysis environment |
 
 ---
+# 🔄 Project Workflow
 
-## 🔄 Project Workflow
+DataCraft follows an end-to-end data analytics workflow that transforms raw customer shopping data into meaningful business insights and actionable recommendations.
 
 ```text
 Raw Customer Data
@@ -95,74 +96,99 @@ Data Profiling & Quality Checks
         ↓
 Data Cleaning & Transformation
         ↓
-Feature Engineering
-        ↓
 Exploratory Data Analysis
+        ↓
+Feature Engineering
         ↓
 MySQL Database
         ↓
-SQL Analysis
+SQL-Based Analysis
         ↓
 Power BI Dashboard
         ↓
-Business Insights
+Insight Generation
         ↓
-Recommendations
+Business Recommendations
+# 🧠 Skills Demonstrated
 
+This project demonstrates practical skills across the complete data analytics lifecycle, from preparing raw data to communicating business insights.
 
-📦 Project Deliverables
+## 📊 Data Analytics
 
-This repository contains:
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Data Transformation
+- Customer Behavior Analysis
 
-📓 Python/Jupyter analysis
-🧹 Cleaned dataset
-🗄️ MySQL database analysis
-🔎 SQL queries
-📊 Power BI dashboard
-📑 Business problem document
-📽️ Project presentation
-💡 Business insights
-🎯 Strategic recommendations
-🚀 Future Improvements
+## 🐍 Programming
 
-The project can be extended by introducing predictive analytics and more advanced customer segmentation.
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-Potential improvements include:
+## 🗄️ Database & SQL
 
-RFM Customer Segmentation
-Customer Lifetime Value (CLV)
-Customer Churn Prediction
-Repeat Purchase Prediction
-Recommendation Systems
-Customer Profitability Analysis
-Predictive Customer Segmentation
-Automated Power BI Reporting
-📚 Skills Demonstrated
-Data Analytics
+- MySQL
+- SQL Querying
+- Data Import & Integration
+- Data Filtering
+- Aggregation & Grouping
+- Business-Oriented SQL Analysis
 
-Data Cleaning Data Preprocessing EDA Data Transformation
+## 📈 Data Visualization
 
-Programming
+- Power BI
+- Interactive Dashboard Development
+- KPI Visualization
+- Trend Analysis
+- Comparative Analysis
+- Data Storytelling
 
-Python Pandas NumPy
+## 💼 Business Analytics
 
-Database
+- Customer Segmentation
+- Customer Lifecycle Analysis
+- Customer Value Analysis
+- Product Performance Analysis
+- Discount & Promotion Analysis
+- Subscription & Loyalty Analysis
+- Shipping Behavior Analysis
 
-MySQL SQL Data Import Data Querying
+## 🎯 Business Decision-Making
 
-Visualization
+- Business Insight Generation
+- Actionable Recommendation Development
+- Customer Retention Analysis
+- Marketing Analytics
+- Data-Driven Decision-Making
+- Translating Analytical Findings into Business Actions
 
-Matplotlib Seaborn Power BI Dashboard Development
+---
 
-Business Analysis
+# 👤 Author
 
-Customer Segmentation Trend Analysis KPI Analysis
-Business Insights Data-Driven Recommendations
+## B Sai Prasad
 
-👤 Author
-Sai Prasad
+**Data Analytics Portfolio Project**
 
-Data Analyst Portfolio Project
+This project demonstrates my ability to work across the complete analytics workflow — from data preparation and exploratory analysis to SQL-based analysis, dashboard development, and business recommendation.
 
-Interested in turning data into meaningful business insights through
-analytics, visualization, and data-driven decision-making.
+### 🔗 Core Analytics Stack
+
+`Python` `Pandas` `NumPy` `MySQL` `SQL` `Power BI`
+
+### 📌 Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Customer Analytics
+- Business Analysis
+- Data-Driven Decision Making
+
+---
