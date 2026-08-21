@@ -85,30 +85,6 @@ The main missing-data issue identified was associated with the **Review Rating**
 | **Jupyter Notebook** | Python analysis environment |
 
 ---
-# 🔄 Project Workflow
-
-DataCraft follows an end-to-end data analytics workflow that transforms raw customer shopping data into meaningful business insights and actionable recommendations.
-
-```text
-Raw Customer Data
-        ↓
-Data Profiling & Quality Checks
-        ↓
-Data Cleaning & Transformation
-        ↓
-Exploratory Data Analysis
-        ↓
-Feature Engineering
-        ↓
-MySQL Database
-        ↓
-SQL-Based Analysis
-        ↓
-Power BI Dashboard
-        ↓
-Insight Generation
-        ↓
-Business Recommendations
 # 🧠 Skills Demonstrated
 
 This project demonstrates practical skills across the complete data analytics lifecycle, from preparing raw data to communicating business insights.
@@ -190,5 +166,3 @@ This project demonstrates my ability to work across the complete analytics workf
 - Customer Analytics
 - Business Analysis
 - Data-Driven Decision Making
-
----
