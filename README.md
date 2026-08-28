@@ -55,7 +55,7 @@ The analysis helped identify differences in purchasing behavior across customer 
 
 ## 👤 Author
 
-**Bhanothu Sai Prasad**
+**Bhanothu Sai Prasad**   
 B.Tech Mining Engineering | IIT (ISM) Dhanbad
 
 [GitHub](https://github.com/Saiprasad12321) | [LinkedIn](https://www.linkedin.com/in/b-sai-prasad-b5b527288/)
